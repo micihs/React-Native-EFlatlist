@@ -1,0 +1,38 @@
+{
+    "name": "react-native-eflatlist",
+    "version": "1.0.0",
+    "description": "An Extension of React Native's Flatlist to add a search bar, pull to refresh and etc.",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npm publish --access=public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/micihs/React-Native-EFlatlist.git"
+    },
+    "keywords": [
+        "flatlist",
+        "search",
+        "bar",
+        "searchbar",
+        "list",
+        "listview",
+        "scroll",
+        "listview with search bar",
+        "flatlist with search bar",
+        "listview with pull to refresh",
+        "flatlist with pull to refresh",
+        "highlight",
+        "jelly",
+        "pull to refresh"
+    ],
+    "author": "Micah Puzio <Micah@Puzios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micihs/React-Native-EFlatlist/issues"
+  },
+  "homepage": "https://github.com/micihs/React-Native-EFlatlist.git#readme",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
